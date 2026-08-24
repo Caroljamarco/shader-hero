@@ -203,6 +203,7 @@ export default function ShaderHero() {
           textAlign: "center",
           color: "white",
           padding: "0 1.5rem",
+          pointerEvents: "none",
         }}
       >
         <h1 style={{ fontSize: "clamp(2rem, 6vw, 4rem)", fontWeight: 700, textShadow: "0 2px 24px rgba(0,0,0,0.55)" }}>
