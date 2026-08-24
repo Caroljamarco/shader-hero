@@ -2,7 +2,7 @@ Shader Hero — Custom Aurora Fragment Shader
 
 A fullscreen animated aurora built with a custom GLSL fragment shader (raw WebGL, no Three.js/R3F), used as a hero section with real content on top.
 
-Live URL: (add after deploying) Palette: matches my portfolio's identity kit — near-black 
+Live URL: Live URL: https://shader-hero-chi.vercel.app/ Palette: matches my portfolio's identity kit — near-black 
 #1b1b1a, primary purple 
 #6c5ce7, accent gold 
 #ffc145.
